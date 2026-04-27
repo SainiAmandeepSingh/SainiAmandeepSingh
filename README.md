@@ -85,6 +85,8 @@ A song recommendation system trained on the Million Song Dataset, with a Streaml
 
 Personal portfolio website built with vanilla HTML, CSS, and JavaScript. Mobile-first dark theme with full responsive support, hosted on GitHub Pages.
 
+[Live site →](https://sainiamandeepsingh.github.io/)
+
 </td>
 </tr>
 </table>
@@ -129,14 +131,30 @@ English (Full Professional) · Greek (Native) · Dutch (Professional Working, B1
 
 ### Publication
 
-Co-author of *Predictive Analysis of Zomato Restaurant Data Using Machine Learning*.
+**[Predictive Analysis of Zomato Restaurant Data Using Machine Learning](https://rpubs.com/singhamandeepsaini/Minor)**  
+Co-authored research applying machine learning techniques to Zomato restaurant data for predictive modelling and analysis. Published via RPubs as part of the Big Data and Design minor at HU University of Applied Sciences Utrecht.
 
-### Additional activities
+### Other professional experience
 
-Co-Founder and Head of Service at [VERS 010](https://www.vers010.nl), a brasserie in Rotterdam, where I oversee front-of-house operations, staff training, and operational reporting.
+**Co-Founder and Head of Service** · [VERS 010](https://www.vers010.nl) · October 2022 – Present  
+Co-founded a brasserie in Rotterdam with family. Lead front-of-house operations and staff training, manage scheduling, salary processing, and guest communication, and contribute to marketing strategy. Apply data insights and operational reporting to support continuous improvement.
 
-### Contact
+**Junior Data Engineer** · LeydenJar Technologies · September 2024 – March 2025  
+Built ETL pipelines automating data ingestion from XRF, White light, and OCS laboratory devices into Azure Data Lake. Developed data models and Power BI dashboards to support quality control on a 100% silicon anode product.
 
-LinkedIn: [singhamandeepsainikahma](https://www.linkedin.com/in/singhamandeepsainikahma/)  
-Email: [singhamandeepsaini@hotmail.com](mailto:singhamandeepsaini@hotmail.com)  
-Portfolio: [sainiamandeepsingh.github.io](https://sainiamandeepsingh.github.io/)
+**Junior Data Scientist** · Basic-Fit · February 2023 – August 2023  
+Developed an interactive Power BI dashboard for the software development team within an Agile environment, visualising sprint progress, team performance, and task distribution to support sprint planning and decision-making.
+
+---
+
+### Get in touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/singhamandeepsainikahma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:singhamandeepsaini@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://sainiamandeepsingh.github.io/"><img src="https://img.shields.io/badge/Portfolio-E2143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  Based in Barendrecht, Netherlands · Open to professional connections and academic collaboration.
+</p>

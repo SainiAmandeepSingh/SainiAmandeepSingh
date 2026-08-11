@@ -131,15 +131,6 @@ English (Full Professional) · Greek (Native) · Dutch (Professional Working, B1
 ### Repository activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SainiAmandeepSingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SainiAmandeepSingh&layout=compact&theme=radical&hide_border=true&include_all_commits=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SainiAmandeepSingh&theme=radical&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SainiAmandeepSingh/SainiAmandeepSingh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SainiAmandeepSingh/SainiAmandeepSingh/output/github-contribution-grid-snake.svg">
@@ -147,7 +138,7 @@ English (Full Professional) · Greek (Native) · Dutch (Professional Working, B1
   </picture>
 </p>
 
-> Stats cards are served by third-party community projects (github-readme-stats, streak-stats) and can occasionally go down when their shared hosting is rate-limited. The contribution snake above is self-hosted via a GitHub Action in this repo (`.github/workflows/snake.yml`), so it isn't affected by outages on those services.
+The animation above is generated and hosted entirely by a GitHub Action in this repo (`.github/workflows/snake.yml`), so it doesn't depend on any third-party server staying online. I dropped the language/streak stats cards that used to sit here — they were served by a shared community-run service (github-readme-stats.vercel.app) that's been failing intermittently due to rate limits on its end.
 
 ### Publication
 

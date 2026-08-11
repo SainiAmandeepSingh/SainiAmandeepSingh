@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=E2143C&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+BI+Developer+%40+Data+Kingdom;MSc+Applied+Data+Science%2C+Utrecht+University;Building+data+platforms+on+Microsoft+Fabric;Machine+Learning+%26+NLP+for+Healthcare+Analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+BI+Developer+%40+Data+Kingdom;MSc+Applied+Data+Science%2C+Utrecht+University;Building+data+platforms+on+Microsoft+Fabric;Machine+Learning+%26+NLP+for+Healthcare+Analytics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,10 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://sainiamandeepsingh.github.io/"><img src="https://img.shields.io/badge/Portfolio-E2143C?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sainiamandeepsingh.github.io/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/singhamandeepsainikahma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:singhamandeepsaini@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/SainiAmandeepSingh"><img src="https://komarev.com/ghpvc/?username=SainiAmandeepSingh&style=flat-square&color=e2143c&label=Profile+views" alt="Profile views"></a>
+  <a href="https://github.com/SainiAmandeepSingh"><img src="https://komarev.com/ghpvc/?username=SainiAmandeepSingh&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views"></a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,js,azure,powerbi,streamlit&theme=dark" alt="Skill icons" />
 </p>
 
 ---
@@ -140,6 +144,11 @@ English (Full Professional) · Greek (Native) · Dutch (Professional Working, B1
 
 The animation above is generated and hosted entirely by a GitHub Action in this repo (`.github/workflows/snake.yml`), so it doesn't depend on any third-party server staying online. I dropped the language/streak stats cards that used to sit here — they were served by a shared community-run service (github-readme-stats.vercel.app) that's been failing intermittently due to rate limits on its end.
 
+### Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Publication
 
 **[Predictive Analysis of Zomato Restaurant Data Using Machine Learning](https://rpubs.com/singhamandeepsaini/Minor)**
@@ -163,7 +172,7 @@ Developed an interactive Power BI dashboard for the software development team wi
 <p align="center">
   <a href="https://www.linkedin.com/in/singhamandeepsainikahma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:singhamandeepsaini@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://sainiamandeepsingh.github.io/"><img src="https://img.shields.io/badge/Portfolio-E2143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sainiamandeepsingh.github.io/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">

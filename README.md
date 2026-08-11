@@ -135,10 +135,6 @@ English (Full Professional) · Greek (Native) · Dutch (Professional Working, B1
 ### Repository activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="90%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SainiAmandeepSingh/SainiAmandeepSingh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SainiAmandeepSingh/SainiAmandeepSingh/output/github-contribution-grid-snake.svg">
@@ -146,7 +142,7 @@ English (Full Professional) · Greek (Native) · Dutch (Professional Working, B1
   </picture>
 </p>
 
-Both the 3D graph and the snake animation are generated and committed directly to this repo by GitHub Actions (`.github/workflows/3d-contrib.yml` and `.github/workflows/snake.yml`), so they don't depend on any third-party server staying online. I dropped the language/streak stats cards that used to sit here — they were served by a shared community-run service (github-readme-stats.vercel.app) that's been failing intermittently due to rate limits on its end.
+The animation above is generated and committed directly to this repo by a GitHub Action (`.github/workflows/snake.yml`), so it doesn't depend on any third-party server staying online. I dropped the language/streak stats cards that used to sit here — they were served by a shared community-run service (github-readme-stats.vercel.app) that's been failing intermittently due to rate limits on its end.
 
 ### Recent activity
 
